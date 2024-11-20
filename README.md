@@ -10,6 +10,7 @@ A plugin for NeoVim to color the line numbers based on the current mode to help 
 return {
   {
     "DevCetra/nvim-color-line-numbers-by-mode",
+    lazy = false, --load during startup
     config = function()
       require("nvim-color-line-numbers-by-mode").setup()
     end,
