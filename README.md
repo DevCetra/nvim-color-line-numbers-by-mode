@@ -2,11 +2,7 @@
 
 ## nvim-color-line-numbers-by-mode
 
-A plugin for NeoVim to color the line numbers based on the current mode to help you better see the mode you're in. The line colors correspond to the default mode colors of NeoVim.
-
-## BUG
-
-Going into Command Mode doesn't seem to change the line number colors, but all the others work.
+A plugin for NeoVim to color the line numbers based on the current mode (Normal, Insert or Visual) to help you better see the mode you're in. The line colors correspond to the default mode colors of NeoVim.
 
 ## Installing with Lazy
 
