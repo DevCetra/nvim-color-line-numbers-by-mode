@@ -6,7 +6,7 @@ A plugin for NeoVim to color the line numbers based on the current mode to help 
 
 ## BUG
 
-Going into Command mode doesn't seem to change the line number colors, but all the others work.
+Going into Command Mode doesn't seem to change the line number colors, but all the others work.
 
 ## Installing with Lazy
 
